@@ -1,6 +1,6 @@
 <img src='http://aralbalkan.com/images/tally-label-printer.png'>
 
-Tally: Hello badge example (part 2 of 4)
+Tally Hello Badge Example: Repetition (part 2 of 4)
 ===
 
 [In part 1](https://github.com/aral/tally-hello-badge-1-text-and-attribute), we used the [Tally template engine](http://tally.jit.su) ([fork Tally on GitHub](https://github.com/aral/tally)) to create a name badge that displays the user’s name and links it to her web site.
