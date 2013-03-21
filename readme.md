@@ -1,11 +1,11 @@
 <img src='http://aralbalkan.com/images/tally-label-printer.png'>
 
-Tally: Label printer example.
+Tally: Hello badge example (part 1 of 4)
 ===
 
-[In the previous example](http://github.com/aral/tally-hello-world/), we used the [Tally template engine](http://tally.jit.su) ([fork Tally on GitHub](https://github.com/aral/tally)) to create a label that displays the user’s name and links to her web site.
+[In part 1](https://github.com/aral/tally-hello-badge-1-text-and-attribute), we used the [Tally template engine](http://tally.jit.su) ([fork Tally on GitHub](https://github.com/aral/tally)) to create a name badge that displays the user’s name and links it to her web site.
 
-In this example, we’re going to use that to make lots of labels. Perhaps for printing out later.
+In this example, we’re going to use that to make lots of labels.
 
 Usage
 ---
